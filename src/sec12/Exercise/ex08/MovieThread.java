@@ -7,7 +7,7 @@ public class MovieThread extends Thread{
             System.out.println("동영상을 재생합니다.");
             //1
             /*try {
-                Thread.sleep(1);
+                Thread.sleep(1);+
             } catch (InterruptedException e) {
                 break;
             }*/
